@@ -1,0 +1,66 @@
+{
+    "configurations": [
+        {
+            "name": "!!! WARNING !!! AUTO-GENERATED FILE, PLEASE DO NOT MODIFY IT AND USE https://docs.platformio.org/page/projectconf/section_env_build.html#build-flags"
+        },
+        {
+            "name": "Mac",
+            "macFrameworkPath": [],
+            "includePath": [
+                "/Users/liren/Documents/Arduino/nmea/include",
+                "/Users/liren/Documents/Arduino/nmea/src",
+                "/Users/liren/Documents/Arduino/nmea/.pio/libdeps/megaatmega2560/ArduinoSTL/src",
+                "/Users/liren/Documents/Arduino/nmea/.pio/libdeps/megaatmega2560/Serial9b/src",
+                "/Applications/Arduino.app/Contents/Java/hardware/arduino/avr/cores/arduino",
+                "/Applications/Arduino.app/Contents/Java/hardware/arduino/avr/variants/mega",
+                "/Users/liren/Documents/Arduino/libraries",
+                "/Users/liren/Documents/Arduino/libraries/Arduino-Serial9b-master/src",
+                "/Users/liren/.platformio/packages/framework-arduinoavr/cores/arduino",
+                "/Users/liren/.platformio/packages/framework-arduinoavr/variants/mega",
+                "/Users/liren/.platformio/packages/framework-arduinoavr/libraries/__cores__/arduino/EEPROM/src",
+                "/Users/liren/.platformio/packages/framework-arduinoavr/libraries/__cores__/arduino/HID/src",
+                "/Users/liren/.platformio/packages/framework-arduinoavr/libraries/__cores__/arduino/SPI/src",
+                "/Users/liren/.platformio/packages/framework-arduinoavr/libraries/__cores__/arduino/SoftwareSerial/src",
+                "/Users/liren/.platformio/packages/framework-arduinoavr/libraries/__cores__/arduino/Wire/src",
+                "/Users/liren/.platformio/packages/tool-unity",
+                ""
+            ],
+            "browse": {
+                "limitSymbolsToIncludedHeaders": true,
+                "path": [
+                    "/Users/liren/Documents/Arduino/nmea/include",
+                    "/Users/liren/Documents/Arduino/nmea/src",
+                    "/Users/liren/Documents/Arduino/nmea/.pio/libdeps/megaatmega2560/ArduinoSTL/src",
+                    "/Users/liren/Documents/Arduino/nmea/.pio/libdeps/megaatmega2560/Serial9b/src",
+                    "/Applications/Arduino.app/Contents/Java/hardware/arduino/avr/cores/arduino",
+                    "/Applications/Arduino.app/Contents/Java/hardware/arduino/avr/variants/mega",
+                    "/Users/liren/Documents/Arduino/libraries",
+                    "/Users/liren/Documents/Arduino/libraries/Arduino-Serial9b-master/src",
+                    "/Users/liren/.platformio/packages/framework-arduinoavr/cores/arduino",
+                    "/Users/liren/.platformio/packages/framework-arduinoavr/variants/mega",
+                    "/Users/liren/.platformio/packages/framework-arduinoavr/libraries/__cores__/arduino/EEPROM/src",
+                    "/Users/liren/.platformio/packages/framework-arduinoavr/libraries/__cores__/arduino/HID/src",
+                    "/Users/liren/.platformio/packages/framework-arduinoavr/libraries/__cores__/arduino/SPI/src",
+                    "/Users/liren/.platformio/packages/framework-arduinoavr/libraries/__cores__/arduino/SoftwareSerial/src",
+                    "/Users/liren/.platformio/packages/framework-arduinoavr/libraries/__cores__/arduino/Wire/src",
+                    "/Users/liren/.platformio/packages/tool-unity",
+                    ""
+                ]
+            },
+            "defines": [
+                "PLATFORMIO=40003",
+                "ARDUINO_AVR_MEGA2560",
+                "F_CPU=16000000L",
+                "ARDUINO_ARCH_AVR",
+                "ARDUINO=10805",
+                "__AVR_ATmega2560__",
+                ""
+            ],
+            "intelliSenseMode": "clang-x64",
+            "cStandard": "c11",
+            "cppStandard": "c++11",
+            "compilerPath": "\"/Users/liren/.platformio/packages/toolchain-atmelavr/bin/avr-gcc\" -mmcu=atmega2560"
+        }
+    ],
+    "version": 4
+}
